@@ -9,12 +9,6 @@ This is a simple web-based scorekeeper for a table tennis game. It allows you to
 - Reset the scores to start a new game.
 - Simple, responsive UI.
 
-## Technologies Used
-
-- **HTML**: Structure of the webpage.
-- **CSS**: Styled with the [Bulma](https://bulma.io/) CSS framework.
-- **JavaScript**: Logic for updating scores and resetting the game.
-
 ## How to Use
 
 1. **Set the Winning Score**: Use the dropdown to select the number of points required to win.
