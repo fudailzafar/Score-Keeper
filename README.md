@@ -11,8 +11,10 @@ This is a simple web-based scorekeeper for a table tennis game. It allows you to
 
 ## Project Structure
 
+```bash
 ├── index.html         # The main HTML file
 └── script.js          # JavaScript for handling popup actions
+```
 
 ## How to Use
 
