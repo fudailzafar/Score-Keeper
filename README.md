@@ -9,6 +9,11 @@ This is a simple web-based scorekeeper for a table tennis game. It allows you to
 - Reset the scores to start a new game.
 - Simple, responsive UI.
 
+## Project Structure
+
+├── index.html         # The main HTML file
+└── script.js          # JavaScript for handling popup actions
+
 ## How to Use
 
 1. **Set the Winning Score**: Use the dropdown to select the number of points required to win.
